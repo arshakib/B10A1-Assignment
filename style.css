@@ -11,6 +11,7 @@ body{
 }
 
 header{
+width: 100%;
 background: url(./assets/Hero-bg.png) center/cover no-repeat;
 padding: 26px 221px 44px;
 }
@@ -318,3 +319,5 @@ footer .icon{
     display: flex;
     gap: 20px;
 }
+
+html{scroll-behavior: smooth;}
